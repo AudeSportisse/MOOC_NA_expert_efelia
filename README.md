@@ -2,7 +2,7 @@
 
 **Français :**
 
-Ce dépôt contient les notebooks IPython pour le MOOC Efelia sur les données manquantes, destiné aux professionnels en machine learning.
+Ce dépôt contient les notebooks IPython pour le MOOC Efelia sur les données manquantes, destiné aux utilisateurs experts en machine learning.
 
 Lab1 : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AudeSportisse/MOOC_NA_expert_efelia/HEAD?urlpath=%2Fdoc%2Ftree%2FLab1_MOOC_Expert_fr.ipynb)
 Lab2 : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AudeSportisse/MOOC_NA_expert_efelia/HEAD?urlpath=%2Fdoc%2Ftree%2FLab2_MOOC_Expert_fr.ipynb)
